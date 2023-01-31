@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Viktor
 - 👀 I’m interested in frontend development 
-- 🌱 I’m currently enrolled in "Front End Pro" course at Hillel IT-school
+- 🌱 I’m currently working as a freelance Front-End developer
 - 📫 If you're looking for a frontend developer, feel free to reach me! Email: viktorkw1201@gmail.com telegram: @viktorkw1201
