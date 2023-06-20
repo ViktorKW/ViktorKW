@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Viktor
 - 🌱 I’m currently working as a freelance Front-End developer
-- 📫 If you're looking for a frontend developer, feel free to reach me! Email: viktorkw1201@gmail.com telegram: @viktorkw1201
+- 📫 If you're looking for a frontend developer, feel free to reach me!
+- Email: viktorkw1201@gmail.com
